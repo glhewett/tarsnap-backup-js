@@ -1,0 +1,13 @@
+{
+  "name": "Madeline",
+  "verbose": true,
+  "include": [
+    "/Users/madeline/"
+  ],
+  "exclude": [
+    "/Users/madeline/Library/Caches",
+    "/Users/madeline/Library/Mail",
+    "/Users/madeline/Downloads",
+    "/Users/madeline/.Trash"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "tarsnap-backup-js",
+  "version": "1.0.0",
+  "description": "Tool for managing tarsnap backups",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "bin": {
+    "doBackup": "./index.js"
+  },
+  "keywords": [
+    "backup",
+    "tarsnap"
+  ],
+  "author": "Greg Hewett <greg@greghewett.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "lodash": "^4.11.1"
+  }
+}
